@@ -1,5 +1,5 @@
-public class FenderTelecaster extends Guitar implements Electric {
-    public FenderTelecaster(String brand, String model, String type) {
+public class MyMainGuitar extends Guitar implements Electric {
+    public MyMainGuitar(String brand, String model, String type) {
         super(brand, model, type);
     }
 
